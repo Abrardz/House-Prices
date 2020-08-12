@@ -1,6 +1,8 @@
 # House-Prices
-the model to predict the price of House
+Predict sales prices
 
+Data Source:
+We have 'House Prices: Advanced Regression Techniques' data set(from kaggle: https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
 Table of Contents
 
